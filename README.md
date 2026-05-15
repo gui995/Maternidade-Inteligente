@@ -1,2 +1,0 @@
-# Maternidade-Inteligente
-Projeto faculdade 
